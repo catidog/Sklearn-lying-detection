@@ -1,0 +1,7 @@
+numpy
+opencv-python
+sklearn
+termcolor
+matplotlib==2.2.2
+tqdm
+joblib

@@ -1,0 +1,18 @@
+SampleSize----------------------------------------------------------
+0 0								//width & height("0 0" is of any size)
+
+Names(B,G,R,Name)---------------------------------------------------
+0	255	0	Lying				//green - Lying
+255	0	0	Sit			//blue - Sit
+0	255	255	Stand			        //yellow - Stand
+255	255	0	Squat		                //cyan - Squat
+255	0	255	Other				//pink - Other
+255	191	0	NULL					//deepskyblue - NULL(keep NULL as the last)
+
+Attributes(B,G,R,Attribute)-----------------------------------------
+255	0	0	id						//blue - id
+0	255	255	occ						//yellow - occ
+255	255	0	blur					//blue - blur
+0	0	0	NULL					//keep NULL as the last
+
+
